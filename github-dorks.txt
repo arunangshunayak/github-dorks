@@ -22,6 +22,7 @@ extension:json mongolab.com
 extension:yaml mongolab.com
 jsforce extension:js conn.login
 SF_USERNAME salesforce
+aws_access_key_id AKIAYSRXXXXQVCMCCZWW
 filename:.tugboat NOT _tugboat
 HEROKU_API_KEY language:shell
 HEROKU_API_KEY language:json
